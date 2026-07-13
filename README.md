@@ -1,5 +1,4 @@
 ## Hi there 👋
-    <img src="cat-meme.gif">
 <!--
 **Violonnn/Violonnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
