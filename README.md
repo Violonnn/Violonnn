@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<img width="220" height="220" alt="Image" src="https://github.com/user-attachments/assets/d90a2bc7-a6ab-4cd2-b67b-ccebcdfc0a2f" />
 <!--
 **Violonnn/Violonnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
